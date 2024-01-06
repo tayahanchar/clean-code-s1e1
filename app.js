@@ -74,6 +74,8 @@ var addTask=function(){
     bindTaskEvents(listItem, taskCompleted);
 
     taskInput.value="";
+    
+    listItem.querySelector('.delete-img').setAttribute('alt', 'delete');
 
 }
 
