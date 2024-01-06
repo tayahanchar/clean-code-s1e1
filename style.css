@@ -105,7 +105,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  list-style:none;
+  list-style: none;
   vertical-align: middle;
 }
 
@@ -138,14 +138,14 @@
 
 /* Edit Task */
 .text-input {
-  display:none
+  display: none
 }
 
 .edit-mode-text-input {
-  display:inline-block;
-  width:224px
+  display: inline-block;
+  width: 224px
 }
 
 .edit-label {
-  display:none;
+  display: none;
 }
